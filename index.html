@@ -4,6 +4,9 @@ body_class: "home-template user"
 ---
 {% include header.html %}
 
+<p>{{ site.baseurl }}</p>
+<p>{{ site.url }}</p>
+
 <div class="page-content">
   <div class="wrapper">
     <div class="home">
@@ -12,8 +15,8 @@ body_class: "home-template user"
 
           {% if post.image %}
               <div class="image-holder show">
-                <a href="{{ post.url | prepend: site.baseurl }}" class="inner" style="background-image: url('{{ site.baseurl }}/images/{{ post.image }}');">
-                  <img src="{{ site.baseurl }}/images/{{ post.image }}">
+                <a href="{{ post.url | prepend: site.baseurl }}" class="inner" style="background-image: url('images/{{ post.image }}');">
+                  <img src="images/{{ post.image }}">
               </a>
             </div>
           {% endif %}
