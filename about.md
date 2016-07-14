@@ -8,16 +8,22 @@ permalink: /About/
     <p><img src="http://dreamofbook.qiniudn.com/Zero.png" align="center"></p>
 </center>
 
-Ehhhh...I know it's not a good question.
+Ehhhh...It's a good question!
 
-My Name is Azeril. You may find me in sites like douban.com / Goodreads.com / Facebook / Instagram / Twitter / Weibo.com, so on and so forth. It’s easy to know me. My short name is Az., quite easy to remember, right?
+### Who am I?
 
-喜欢折腾的伪技术宅。一点点 geek，一丢丢的执著，就像吃烧烤时多少会撒一点孜然，恰到好处就够。日常之中，多的是折腾劲，也希望能添几分专注、几许勇敢。这就是我。
+My Name is Booox. You may find me in sites like douban.com / Goodreads.com / Facebook / Instagram / Twitter / Weibo.com, so on and so forth. It’s easy to know me. 
 
-——Azeril
+喜欢阅读，更喜欢买书，有时会把买来的书当做已经看过的。
+喜欢电影，假装喜欢看一些有深度内容的电影。
+喜欢技术，但也只能折腾自己能弄懂的那点点技术。
+喜欢篮球，技术末流，却是最大爱好。
 
 
-> Live long and prosper
+——Booox
+
+
+> Live in Wow.
 
 <center>
     <p><img src="http://dreamofbook.qiniudn.com/hacker.png" align="center"></p>
