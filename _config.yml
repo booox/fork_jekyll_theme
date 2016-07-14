@@ -11,7 +11,7 @@ description: >    # 主题简介，可改为博客描述
   open sourced.<br> This is my Jekyll port of the Roon theme.
 
 url:              "/" # 添加域名（不需要 http:// 前缀），或使用「/」作为博客根链接，
-baseurl:          "/fork_jekyll_theme/" # the subpath of your site, e.g. /blog/
+baseurl:          "/fork_jekyll_theme" # the subpath of your site, e.g. /blog/
 
 twitter:          # 添加你的 Twitter 用户名
 github:           jekyll # 添加你的 GitHub 用户名
