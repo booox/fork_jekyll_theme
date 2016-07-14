@@ -2,7 +2,7 @@
 layout: post
 title:  "再见，邓肯"
 description: 
-image: http://img.pconline.com.cn/images/upload/upc/tx/wallpaper/1306/21/c1/22380728_1371802742057.jpg 
+image: duncan.jpg 
 ---
 
 ## 石佛归隐，无欲无求 
