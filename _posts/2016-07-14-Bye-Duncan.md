@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "再见，邓肯"
-description: 
+description: 纪念邓肯
 image: duncan.jpg 
 ---
 
